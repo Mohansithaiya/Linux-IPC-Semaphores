@@ -2,7 +2,7 @@
 # Ex05-Linux IPC-Semaphores
 
 # NAME: MOHAN S
-# REISTER NO: 212223240094
+# REGISTER NO: 212223240094
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
